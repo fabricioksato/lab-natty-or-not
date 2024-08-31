@@ -20,32 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+O poder da IA generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei a inteligência artificial para gerar imagens aleatórias para completar o desafio Natural ou Fake Natty
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Bing Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foram sugeridas alguns temos relacionados a inteligência artificial para criar as imagens utilizando o Microsoft Bing | Criador de imagens
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Em alguns segundos foram geradas as imagens, algo que para uma pessoal elaborar e ter o resultado com programas de criação/edição de imagens levaria um certo tempo
+
+https://copilot.microsoft.com/images/create/ser-humano-com-dificuldade-e-inteligc3aancia-artifici/1-66d3054c067b411a905766cd3657c769?id=Sj%2fprkIo%2bc0MZeHD8gIe9g%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.A6HeF7KvLHHmxtL.DGPH&skey=TNbShIGPU5OpbyXwMjtj82ADisQhD26R-hgeZMFkIRY&FORM=GCRIDP
+
+[https://copilot.microsoft.com/images/create/ser-humano-com-dificuldade-e-inteligc3aancia-artifici/1-66d3054c067b411a905766cd3657c769?id=Sj%2fprkIo%2bc0MZeHD8gIe9g%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.A6HeF7KvLHHmxtL.DGPH&skey=TNbShIGPU5OpbyXwMjtj82ADisQhD26R-hgeZMFkIRY&FORM=GCRIDP](https://copilot.microsoft.com/images/create/inteligc3aancia-artificial-nos-estudos/1-66d305cc0b9c4abcb4df9bf8ffb390ec?id=vaVy8ScjNWw2vno1HLFGKA%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.bbRSfaxIunjAk0IBdVL.&skey=TNbShIGPU5OpbyXwMjtj82ADisQhD26R-hgeZMFkIRY&FORM=GCRIDP&mode=overlay)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Utilizar IA para criar algo natural em poucos segundos é realmente espetacular, o resultado retrata algo orgânico com pouca artificialidade.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
